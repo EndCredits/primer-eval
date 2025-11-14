@@ -1,4 +1,4 @@
-# Primer Evaluation: A simple tool to evaluation primer properites. Based on primer3-py
+# Primer Evaluation: A simple tool to evaluate primer properites. Based on primer3-py
 
 This script was written to mimic the parameter output primer characteristics of NCBI Primer BLAST. However, running Primer BLAST once takes a long time, so this script was written.
 
