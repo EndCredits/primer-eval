@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import re
 from dataclasses import dataclass, asdict
 from typing import List, Tuple, Optional
