@@ -50,6 +50,6 @@ jobs:
 
     - name: Run Evaluation
       run: |
-        source./primer-venv/bin/activate
+        source ./primer-venv/bin/activate
         cd primer-eval
         python primer-eval.py "${{ inputs.fwd }}" "${{ inputs.reve }}"
